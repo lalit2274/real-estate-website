@@ -1,4 +1,4 @@
-# Fortune Real Estate Agency – Mumbai
+#  Real Estate Agency 
 
 Agency website (React + Vite + Tailwind). Contains no individual/owner details.
 
